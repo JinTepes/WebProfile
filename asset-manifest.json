@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/WebProfile/static/css/main.2e9625ef.chunk.css",
+    "main.js": "/WebProfile/static/js/main.8963fedb.chunk.js",
+    "main.js.map": "/WebProfile/static/js/main.8963fedb.chunk.js.map",
+    "runtime-main.js": "/WebProfile/static/js/runtime-main.490d4258.js",
+    "runtime-main.js.map": "/WebProfile/static/js/runtime-main.490d4258.js.map",
+    "static/js/2.2b2e3b41.chunk.js": "/WebProfile/static/js/2.2b2e3b41.chunk.js",
+    "static/js/2.2b2e3b41.chunk.js.map": "/WebProfile/static/js/2.2b2e3b41.chunk.js.map",
+    "index.html": "/WebProfile/index.html",
+    "static/css/main.2e9625ef.chunk.css.map": "/WebProfile/static/css/main.2e9625ef.chunk.css.map",
+    "static/js/2.2b2e3b41.chunk.js.LICENSE.txt": "/WebProfile/static/js/2.2b2e3b41.chunk.js.LICENSE.txt",
+    "static/media/Athenium.ae6f445b.png": "/WebProfile/static/media/Athenium.ae6f445b.png",
+    "static/media/Etch-A-Sketch.8bab7004.png": "/WebProfile/static/media/Etch-A-Sketch.8bab7004.png",
+    "static/media/Informative-site.d2bd21b0.png": "/WebProfile/static/media/Informative-site.d2bd21b0.png",
+    "static/media/Janken.a388b0a9.png": "/WebProfile/static/media/Janken.a388b0a9.png",
+    "static/media/Simple-Calculator.f3983a64.png": "/WebProfile/static/media/Simple-Calculator.f3983a64.png",
+    "static/media/TicTacToeBG.0f68a86d.png": "/WebProfile/static/media/TicTacToeBG.0f68a86d.png",
+    "static/media/css3logo.19c8605d.png": "/WebProfile/static/media/css3logo.19c8605d.png",
+    "static/media/githublogo.39e986cf.png": "/WebProfile/static/media/githublogo.39e986cf.png",
+    "static/media/gitlogo.001dc6d3.png": "/WebProfile/static/media/gitlogo.001dc6d3.png",
+    "static/media/html5logo.c4df12cd.png": "/WebProfile/static/media/html5logo.c4df12cd.png",
+    "static/media/jslogo.aeaa87bd.png": "/WebProfile/static/media/jslogo.aeaa87bd.png",
+    "static/media/linuxlogo.8cca9c39.png": "/WebProfile/static/media/linuxlogo.8cca9c39.png",
+    "static/media/premierprologo.e60086eb.png": "/WebProfile/static/media/premierprologo.e60086eb.png",
+    "static/media/programminglogo.692e0827.png": "/WebProfile/static/media/programminglogo.692e0827.png",
+    "static/media/pslogo.9933bde7.png": "/WebProfile/static/media/pslogo.9933bde7.png",
+    "static/media/pythonlogo.91072be8.png": "/WebProfile/static/media/pythonlogo.91072be8.png",
+    "static/media/reactlogo.daae3e09.png": "/WebProfile/static/media/reactlogo.daae3e09.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.490d4258.js",
+    "static/js/2.2b2e3b41.chunk.js",
+    "static/css/main.2e9625ef.chunk.css",
+    "static/js/main.8963fedb.chunk.js"
+  ]
+}

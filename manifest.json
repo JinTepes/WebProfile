@@ -1,0 +1,8 @@
+{
+  "short_name": "Web Profile",
+  "name": "John Colin's Web Profile",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
