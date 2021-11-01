@@ -1,0 +1,12 @@
+.workHolder{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+
+.workParent{
+    padding: 20px 100px;
+    color: white;
+}

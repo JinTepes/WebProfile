@@ -1,0 +1,42 @@
+.navbarparent{
+    position: fixed;
+    width: 100%;
+}
+
+.navholder{
+    padding: 5px 25px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    color: #fff;
+    overflow: hidden;
+    background-color: #023B3D;
+}
+
+h1{
+    cursor: default;
+}
+
+ul{
+    cursor: default;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+li{
+    list-style: none;
+    padding: 10px 40px;
+    transition: transform .35s;
+    font-size: 25px;
+}
+
+li a{
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+}
+
+li:hover{
+    transform: scale(1.3);
+}
