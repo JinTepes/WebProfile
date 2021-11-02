@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/WebProfile/static/css/main.2e9625ef.chunk.css",
-    "main.js": "/WebProfile/static/js/main.8963fedb.chunk.js",
-    "main.js.map": "/WebProfile/static/js/main.8963fedb.chunk.js.map",
+    "main.css": "/WebProfile/static/css/main.ed2dc534.chunk.css",
+    "main.js": "/WebProfile/static/js/main.8e9960ce.chunk.js",
+    "main.js.map": "/WebProfile/static/js/main.8e9960ce.chunk.js.map",
     "runtime-main.js": "/WebProfile/static/js/runtime-main.490d4258.js",
     "runtime-main.js.map": "/WebProfile/static/js/runtime-main.490d4258.js.map",
     "static/js/2.2b2e3b41.chunk.js": "/WebProfile/static/js/2.2b2e3b41.chunk.js",
     "static/js/2.2b2e3b41.chunk.js.map": "/WebProfile/static/js/2.2b2e3b41.chunk.js.map",
     "index.html": "/WebProfile/index.html",
-    "static/css/main.2e9625ef.chunk.css.map": "/WebProfile/static/css/main.2e9625ef.chunk.css.map",
+    "static/css/main.ed2dc534.chunk.css.map": "/WebProfile/static/css/main.ed2dc534.chunk.css.map",
     "static/js/2.2b2e3b41.chunk.js.LICENSE.txt": "/WebProfile/static/js/2.2b2e3b41.chunk.js.LICENSE.txt",
     "static/media/Athenium.ae6f445b.png": "/WebProfile/static/media/Athenium.ae6f445b.png",
     "static/media/Etch-A-Sketch.8bab7004.png": "/WebProfile/static/media/Etch-A-Sketch.8bab7004.png",
@@ -31,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.490d4258.js",
     "static/js/2.2b2e3b41.chunk.js",
-    "static/css/main.2e9625ef.chunk.css",
-    "static/js/main.8963fedb.chunk.js"
+    "static/css/main.ed2dc534.chunk.css",
+    "static/js/main.8e9960ce.chunk.js"
   ]
 }
