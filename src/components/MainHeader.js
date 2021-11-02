@@ -4,7 +4,7 @@ function MainHeader() {
   return (
     <div className='navbarparent'>
       <div className='navholder'>
-        <h1>
+        <h1 style={{textalign: 'center'}}>
           John Colin <span style={{ color: '#DE1E17' }}>Castino</span>
         </h1>
         <div>

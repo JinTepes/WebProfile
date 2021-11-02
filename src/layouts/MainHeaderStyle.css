@@ -1,6 +1,9 @@
 .navbarparent{
     position: fixed;
     width: 100%;
+    overflow: hidden;
+    z-index: 15;
+    background-color: #023B3D;
 }
 
 .navholder{
@@ -10,7 +13,6 @@
     flex-wrap: wrap;
     color: #fff;
     overflow: hidden;
-    background-color: #023B3D;
 }
 
 h1{
@@ -39,4 +41,13 @@ li a{
 
 li:hover{
     transform: scale(1.3);
+}
+
+@media only screen and (max-width: 1000px) {
+    .navholder{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    
 }
