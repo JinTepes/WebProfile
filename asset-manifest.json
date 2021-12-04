@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/WebProfile/static/css/main.418e1092.chunk.css",
-    "main.js": "/WebProfile/static/js/main.f410cf0f.chunk.js",
-    "main.js.map": "/WebProfile/static/js/main.f410cf0f.chunk.js.map",
+    "main.js": "/WebProfile/static/js/main.1ce2e9ba.chunk.js",
+    "main.js.map": "/WebProfile/static/js/main.1ce2e9ba.chunk.js.map",
     "runtime-main.js": "/WebProfile/static/js/runtime-main.490d4258.js",
     "runtime-main.js.map": "/WebProfile/static/js/runtime-main.490d4258.js.map",
     "static/js/2.2b2e3b41.chunk.js": "/WebProfile/static/js/2.2b2e3b41.chunk.js",
@@ -26,12 +26,13 @@
     "static/media/programminglogo.692e0827.png": "/WebProfile/static/media/programminglogo.692e0827.png",
     "static/media/pslogo.9933bde7.png": "/WebProfile/static/media/pslogo.9933bde7.png",
     "static/media/pythonlogo.91072be8.png": "/WebProfile/static/media/pythonlogo.91072be8.png",
-    "static/media/reactlogo.daae3e09.png": "/WebProfile/static/media/reactlogo.daae3e09.png"
+    "static/media/reactlogo.daae3e09.png": "/WebProfile/static/media/reactlogo.daae3e09.png",
+    "static/media/storepage.82c33be9.png": "/WebProfile/static/media/storepage.82c33be9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.490d4258.js",
     "static/js/2.2b2e3b41.chunk.js",
     "static/css/main.418e1092.chunk.css",
-    "static/js/main.f410cf0f.chunk.js"
+    "static/js/main.1ce2e9ba.chunk.js"
   ]
 }
